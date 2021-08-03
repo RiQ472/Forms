@@ -1,0 +1,50 @@
+    
+form{
+    
+    text-align: center;
+    border: inset;
+    background-color: white;
+    border-color: whitesmoke;
+    width: 350px;
+    height: 400px;
+    margin: auto;
+    margin-top: 85px;
+}
+
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgb(73, 149, 197);
+}
+
+p{
+    color: black;
+    font-size: x-large;
+}
+
+input{
+    border-style: inset;
+    border-color: whitesmoke;
+    font-size: medium;
+    width: 250px;
+}
+
+button{
+    background-color: rgb(48, 151, 216);
+    text-emphasis-color: white;
+    background: inset;
+    border-color:  whitesmoke;
+    border-style: inset;
+    font-size: medium;
+    width: 250px;
+}
+
+b{
+    color: white;
+}
+
+h1{
+    color: solid black;
+}
+
